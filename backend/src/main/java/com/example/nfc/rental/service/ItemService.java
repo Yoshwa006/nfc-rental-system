@@ -13,7 +13,6 @@ public class ItemService {
 
     ItemRepo repo;
     Item item;
-    String curr = "allwin";
 
     public ItemService(ItemRepo repo){
         this.repo =repo;
